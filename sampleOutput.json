@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tara John, Camilo Rocha, Vasco Cotovio, Rodrigo Pedroso",
+      "title": "Brazil's Bolsonaro loses bid for second term in fiercely contested presidential vote - CNN",
+      "description": "Luiz Inácio Lula da Silva is now set to become the next president of Brazil. The leftist former President, widely known as \"Lula,\" has 50.66% of the votes, with 95%of the votes counted.",
+      "url": "https://www.cnn.com/2022/10/30/americas/brazil-election-polls-open-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221030183229-luiz-inacio-lula-da-silva-103022.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-31T04:58:00Z",
+      "content": "Luiz Inácio Lula da Silva is set to become the next president of Brazil, after defeating his rightwing rival, incumbent Jair Bolsonaro, by a razor-thin margin in a fiercely contested run-off election… [+6140 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Khloé Kardashian's Daughter True Holds Baby Brother At Halloween Party In Rare Sibling Photo - Access",
+      "description": "Khloe Kardashian's baby boy is celebrating his first Halloween! \"The Kardashians\" star took her three-month-old son and her daughter True to a family Hallowe...",
+      "url": "https://www.youtube.com/watch?v=Q6eSkbSz7_4",
+      "urlToImage": "https://i.ytimg.com/vi/Q6eSkbSz7_4/maxresdefault.jpg",
+      "publishedAt": "2022-10-31T04:09:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Green Bay Packers vs. Buffalo Bills | 2022 Week 8 Game Highlights - NFL",
+      "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+      "url": "https://www.youtube.com/watch?v=1WwBq42po14",
+      "urlToImage": "https://i.ytimg.com/vi/1WwBq42po14/maxresdefault.jpg",
+      "publishedAt": "2022-10-31T03:40:11Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Niamh Kennedy, Abdul Nasir",
+      "title": "Violent clashes break out between students and security forces across Iran, rights groups say - CNN",
+      "description": "Violent clashes broke out between security forces and student protesters at university campuses across Iran on Sunday, according to activist and human rights groups in the country.",
+      "url": "https://www.cnn.com/2022/10/30/middleeast/iran-protests-clashes-sunday-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221027093850-iran-traffic-vpx.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-31T03:09:00Z",
+      "content": "Violent clashes broke out between security forces and student protesters at university campuses across Iran on Sunday, according to activist and human rights groups in the country.\r\nStudents continue… [+2925 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Abigail Ng",
+      "title": "Asia-Pacific stocks mixed as China's factory and services activity contracts - CNBC",
+      "description": "Shares in the Asia-Pacific were mixed on Monday as China factory activity missed expectations, and as the market looks ahead to the U.S. Fed meeting this week.",
+      "url": "https://www.cnbc.com/2022/10/31/asia-markets-china-pmi-stocks-currencies-oil-economic-data.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107132230-1665444692419-gettyimages-1237689867-JAPAN_STOCK.jpeg?v=1667173308&w=1920&h=1080",
+      "publishedAt": "2022-10-31T02:36:00Z",
+      "content": "Shares in the Asia-Pacific were mixed on Monday as China factory activity missed expectations, and as markets look ahead to the U.S. Fed meeting later this week.\r\nHong Kong's Hang Seng index was frac… [+833 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Musk Twitter takeover: Billionaire denies report he plans to fire workers to avoid payouts - BBC",
+      "description": "The world's richest man completed his takeover of the platform last week after months of legal wrangling.",
+      "url": "https://www.bbc.com/news/business-63451979",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8C49/production/_127431953_hi079886996.jpg",
+      "publishedAt": "2022-10-31T02:23:34Z",
+      "content": "Elon Musk has denied a New York Times report that he plans to lay off Twitter workers before the start of next month to avoid having to make payouts.\r\nReplying to a Twitter user asking about the repo… [+2113 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gainesville Sun" },
+      "author": "Javon L. Harris, Gainesville Sun",
+      "title": "RSV, flu and COVID could result in tripledemic, some experts say - Gainesville Sun",
+      "description": "Hospitals are reporting a rare increase in the number of small children becoming infected with a common respiratory illness akin to the common-cold.",
+      "url": "https://www.gainesville.com/story/news/2022/10/30/rsv-flu-covid-could-result-tripledemic-some-experts-say/10613654002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/27/NSBT/2ccd9909-d4dd-4381-b042-a448785b5a63-RSV_Harris_001.JPG?auto=webp&crop=3095,1741,x0,y172&format=pjpg&width=1200",
+      "publishedAt": "2022-10-31T02:08:51Z",
+      "content": "A respiratory virus is surging across Florida and other parts of the country, causing health experts to warn of a potential “tripledemic” during the next several months.\r\nSome hospitals are reporting… [+5859 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Elon Musk says Twitter will revise how it verifies users - Reuters",
+      "description": "Twitter will revise its user verification process, Elon Musk said in a tweet on Sunday, just days after he took over one of the world's most influential social media platforms.",
+      "url": "https://www.reuters.com/technology/elon-musk-says-twitter-will-revise-how-it-verifies-users-2022-10-30/",
+      "urlToImage": "https://www.reuters.com/resizer/wP1C5jcIxkO7AtNo5Sqrrn3KVdA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KI6I5NRCBVMSZDQYO2NZCB5UQ4.jpg",
+      "publishedAt": "2022-10-31T01:54:00Z",
+      "content": "Oct 30 (Reuters) - Twitter will revise its user verification process, Elon Musk said in a tweet on Sunday, just days after he took over one of the world's most influential social media platforms.\r\n\"W… [+1672 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Nick Wagoner",
+      "title": "Christian McCaffrey, in 2nd game as 49er, has TD trifecta in win - ESPN",
+      "description": "New 49ers RB Christian McCaffrey did it all in Sunday's rivalry win over the Rams, becoming the first player since LaDainian Tomlinson in 2005 to throw for, run for and catch a touchdown in the same game.",
+      "url": "https://www.espn.com/nfl/story/_/id/34913973/christian-mccaffrey-2nd-game-49er-makes-history-td-trifecta",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1030%2Fr1083824_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-10-31T01:52:30Z",
+      "content": "INGLEWOOD, Calif. -- The San Francisco 49ers were putting together their red zone plan on Thursday night when the yell came from coach Kyle Shanahan's office.\r\nTo nobody in particular, Shanahan posed… [+5026 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Seoul Korea Halloween Stampede LIVE | Minutes Before Halloween Tragedy In South Korea | News18 LIVE - CNN-News18",
+      "description": "Seoul Korea Halloween Stampede LIVE | Minutes Before Halloween Tragedy In South Korea | English News A mass of mostly young people celebrating Halloween fest...",
+      "url": "https://www.youtube.com/watch?v=rNtcWp9xNCI",
+      "urlToImage": "https://i.ytimg.com/vi/rNtcWp9xNCI/maxresdefault_live.jpg",
+      "publishedAt": "2022-10-31T01:50:02Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Ganesh Rao",
+      "title": "Tempted to buy the dip on tech stocks? Strategist reveals when to get back in - CNBC",
+      "description": "Amazon, Meta and Alphabet's stocks all tanked last week after disappointing earnings. Should investors buy the dip?",
+      "url": "https://www.cnbc.com/2022/10/31/buy-the-dip-on-tech-stocks-strategist-reveals-when-to-get-back-in.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105586834-1542811622774gettyimages-1069756612.jpeg?v=1667177014&w=1920&h=1080",
+      "publishedAt": "2022-10-31T00:43:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Kotaku" },
+      "author": "Luke Plunkett",
+      "title": "Streamer Who Broke Back At TwitchCon Shows Off Scar, Details Recovery - Kotaku",
+      "description": "A casual jump into a foam pit has been a life-changing experience for Adriana Chechik",
+      "url": "https://kotaku.com/adriana-chechik-twitchcon-break-back-injury-scar-stream-1849721571",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eeafa5937556444f14cd5548b6de511f.jpg",
+      "publishedAt": "2022-10-31T00:30:00Z",
+      "content": "Adriana Chechik, who made headlines earlier this month after she broke her back in two places at TwitchCon, has returned to streaming with some updatesand a close lookat how her recovery has been goi… [+1572 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Panthers' D.J. Moore catches ridiculous P.J. Walker TD pass, then helps Falcons seal OT win with penalty - CBS Sports",
+      "description": "The wideout was flagged for removing his helmet after the catch",
+      "url": "https://www.cbssports.com/nfl/news/panthers-d-j-moore-catches-ridiculous-p-j-walker-td-pass-then-helps-falcons-seal-ot-win-with-penalty/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/01/f1c42816-db64-41b0-b523-9720f3293ed5/thumbnail/1200x675/9089dce94d4c2f6ea66c696c85f92cad/d-j-moore-2-1400-us.jpg",
+      "publishedAt": "2022-10-31T00:27:17Z",
+      "content": "A week after a surprise breakout to upset Tom Brady and the Buccaneers, P.J. Walker was on target as the Panthers quarterback yet again Sunday. And none of his passes were prettier than his last of r… [+1370 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Sarah Elbeshbishi, Ken Tran and David Jackson, USA TODAY",
+      "title": "Kemp, Abrams highlight differences in second Georgia debate: recap - USA TODAY",
+      "description": "Gov. Brian Kemp and Democratic gubernatorial candidate Stacey Abrams met in an Atlanta debate that covered abortion, voting rights and gun rights.",
+      "url": "https://www.usatoday.com/story/news/politics/elections/2022/10/30/kemp-abrams-georgia-debate-live-updates/10624595002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/30/USAT/6469f0f9-1d02-4e66-8869-246d30d1431f-AP_Election_2022_Georgia_Governor.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200",
+      "publishedAt": "2022-10-31T00:11:15Z",
+      "content": "Georgia gubernatorial candidates Gov. Brian Kemp and Stacey Abrams sparred Sunday in their second and final debate – their last chance to sway undecided voters as the candidates battle to be Georgia'… [+11237 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Amy McGorry",
+      "title": "Breast cancer patients who respond well to pre-surgical treatment may be able to skip surgery: study - Fox News",
+      "description": "New research from The University of Texas MD Anderson Cancer Center indicates that some patients diagnosed with early-stage breast cancer may be able to skip surgery and receive radiation.",
+      "url": "https://www.foxnews.com/health/breast-cancer-patients-respond-pre-surgical-treatment-may-skip-surgery",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/breast-exam.jpg",
+      "publishedAt": "2022-10-31T00:04:28Z",
+      "content": "Patients diagnosed with early-stage breast cancer who had a good response to targeted cancer treatment prior to surgery otherwise known as adjuvant therapy may be able to skip surgery and receive rad… [+6139 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Samantha Lock",
+      "title": "Russia-Ukraine war at a glance: what we know on day 250 of the invasion - The Guardian",
+      "description": "Kremlin pulls out of grain deal after drone attack on Russia’s Black Sea flagship vessel in Crimea; UN and US call on Moscow to reverse its decision",
+      "url": "https://www.theguardian.com/world/2022/oct/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-250-of-the-invasion",
+      "urlToImage": "https://i.guim.co.uk/img/media/b70ded77a83fc904db55068269bbe8543eb18bd4/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f34b2fe622615cbb20121bb59d44f1ed",
+      "publishedAt": "2022-10-31T00:03:00Z",
+      "content": "Russian foreign minister, Sergei Lavrov, expressed hope that Joe Biden will recall the 1962 Cuban missile crisiswhen dealing with the war in Ukraine. In an interview for a Russian state television do… [+467 chars]"
+    },
+    {
+      "source": { "id": "buzzfeed", "name": "Buzzfeed" },
+      "author": "Karlton Jahmal",
+      "title": "Jennifer Coolidge Says Her Character Needs Sex Scenes, And More \"The White Lotus\" Season 2 Cast Takes - BuzzFeed",
+      "description": "Another season of sex, murder, and mayhem.",
+      "url": "https://www.buzzfeed.com/karltonjahmal/jennifer-coolidge-and-the-white-lotus-cast-talk-sex-bad",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-10/28/20/enhanced/eb955afb92f6/original-4766-1666987933-29.jpg?crop=1243:651;0,15%26downsize=1250:*",
+      "publishedAt": "2022-10-31T00:01:02Z",
+      "content": "HLR: She's (Jennifer Coolidge's character's) assistant, and she shows up and she's broke. So she's not one of the, like, fancy, you know, really wealthy people, but she's still very unaware and self-… [+387 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Gloria Pazmino, Nicole Grether, Emma Tucker",
+      "title": "New York City agrees to pay $26 million to 2 men wrongly convicted of Malcolm X murder - CNN",
+      "description": "New York has agreed to pay $26 million to settle lawsuits filed on behalf of two men whose convictions in the 1965 assassination of Malcolm X were thrown out last November, city officials said.",
+      "url": "https://www.cnn.com/2022/10/30/us/nyc-settlement-malcolm-x-murder/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221030163435-malcom-x-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-30T23:58:00Z",
+      "content": "New York has agreed to pay $26 million to settle lawsuits filed on behalf of two men whose convictions in the 1965 assassination of Malcolm X were thrown out last November, city officials said.\r\nBoth… [+2825 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Motorsport.com" },
+      "author": "Jim Utter",
+      "title": "Ross Chastain \"fully committed\" to banzai last-lap NASCAR move - Motorsport.com",
+      "description": "Ross Chastain used a daring video game-like move on the final lap in Sunday’s race at Martinsville to charge his way into the NASCAR Cup Series title race.",
+      "url": "https://www.motorsport.com/nascar-cup/news/ross-chastain-wall-riding-playoffs-hamlin-martinsville/10393086/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/0a9eRVX0/s6/ross-chastain-trackhouse-racin.jpg",
+      "publishedAt": "2022-10-30T23:22:55Z",
+      "content": "As the final lap of 500 laps began on Sunday, Ross Chastain was in dire straits, trailing Denny Hamlin by two points in the standings for the final spot in the Championship 4 and running 10th in the … [+2609 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Mark Serrels",
+      "title": "Henry Cavill Has Been Replaced in 'The Witcher' on Netflix - CNET",
+      "description": "Liam Hemsworth will play Geralt of Rivia in future seasons of the show.",
+      "url": "https://www.cnet.com/culture/entertainment/henry-cavill-has-been-replaced-in-the-witcher-on-netflix/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2852804bc5cb2b236901015879083ceb65d72897/hub/2021/09/25/128bc3b0-971b-4c6c-895e-278aa3daa3e0/witcher-netflix-cavill-mm-ss-hc-268-rt-promo.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-10-30T23:22:00Z",
+      "content": "This one is a shocker: After season three of The Witcher on Netflix, Henry Cavill will no longer play the show's protagonist, Geralt of Rivia. From the fourth season on, Liam Hemsworth will be replac… [+1190 chars]"
+    }
+  ]
+}
